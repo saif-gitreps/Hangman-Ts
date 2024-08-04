@@ -433,5 +433,92 @@
    {
       "word": "cross",
       "hint": "A state at present, the flow of electrons from one point to other"
-   }
+   },
+   { "word": "danger", "hint": "The possibility of suffering harm or injury" },
+   { "word": "date", "hint": "The day of the month or year as specified by a number" },
+   { "word": "dead", "hint": "No longer alive" },
+   {
+      "word": "deal",
+      "hint": "An agreement or arrangement, especially in business or politics"
+   },
+   { "word": "dear", "hint": "Regarded with deep affection; cherished by someone" },
+   {
+      "word": "debate",
+      "hint": "A formal discussion on a particular topic in a public meeting or legislative assembly"
+   },
+   { "word": "decide", "hint": "Make a choice from a number of alternatives" },
+   {
+      "word": "decision",
+      "hint": "A conclusion or resolution reached after consideration"
+   },
+   { "word": "deep", "hint": "Extending far down from the top or surface" },
+   { "word": "definite", "hint": "Clearly stated or decided; not vague or doubtful" },
+   {
+      "word": "degree",
+      "hint": "A unit of measurement of angles, temperature, or other quantities"
+   },
+   { "word": "department", "hint": "A specialized division of a large organization" },
+   { "word": "depend", "hint": "Be contingent on" },
+   { "word": "describe", "hint": "Give a detailed account in words" },
+   {
+      "word": "design",
+      "hint": "Create, fashion, execute, or construct according to plan"
+   },
+   { "word": "detail", "hint": "An individual feature, fact, or item" },
+   {
+      "word": "develop",
+      "hint": "Grow or cause to grow and become more mature, advanced, or elaborate"
+   },
+   {
+      "word": "difference",
+      "hint": "A point or way in which people or things are not the same"
+   },
+   {
+      "word": "difficult",
+      "hint": "Needing much effort or skill to accomplish, deal with, or understand"
+   },
+   {
+      "word": "dinner",
+      "hint": "The main meal of the day, eaten in the evening or at midday"
+   },
+   { "word": "direct", "hint": "Control the operations of; manage or govern" },
+   {
+      "word": "discuss",
+      "hint": "Talk about (something) with another person or group of people"
+   },
+   {
+      "word": "district",
+      "hint": "An area of a country or city defined for administrative or other purposes"
+   },
+   { "word": "divide", "hint": "Separate or be separated into parts" },
+   { "word": "doctor", "hint": "A qualified practitioner of medicine; a physician" },
+   {
+      "word": "document",
+      "hint": "A piece of written, printed, or electronic matter that provides information"
+   },
+   {
+      "word": "door",
+      "hint": "A hinged, sliding, or revolving barrier at the entrance to a building, room, or vehicle"
+   },
+   {
+      "word": "double",
+      "hint": "Consisting of two equal, identical, or similar parts or things"
+   },
+   { "word": "doubt", "hint": "A feeling of uncertainty or lack of conviction" },
+   { "word": "down", "hint": "From a higher to a lower place or position" },
+   {
+      "word": "draw",
+      "hint": "Produce (a picture or diagram) by making lines and marks on paper"
+   },
+   {
+      "word": "dress",
+      "hint": "A one-piece garment for a woman or girl that covers the body and extends down over the legs"
+   },
+   { "word": "drink", "hint": "Take liquid into the mouth and swallow" },
+   {
+      "word": "drive",
+      "hint": "Operate and control the direction and speed of a motor vehicle"
+   },
+   { "word": "drop", "hint": "Let or make something fall vertically" },
+   { "word": "during", "hint": "Throughout the duration of (a period of time)" }
 ]

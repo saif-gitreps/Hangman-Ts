@@ -14,14 +14,11 @@ function App() {
 
    const isLoser: boolean = incorrectLetters.length >= 6;
    const checkWinner = (): boolean => {
-      let count = 0,
-         i = 0;
-      for (const letter in guessedLetters) {
-         if (letter === wordToGuess.word[i]) {
-            count++;
-            i++;
-         }
-      }
+      let count = 0;
+      wordToGuess.word
+         .split("")
+         .forEach((letter) => (guessedLetters.includes(letter) ? count++ : null));
+
       return count === wordToGuess.word.length;
    };
    const isWinner: boolean = checkWinner();
@@ -37,10 +34,10 @@ function App() {
    useEffect(() => {
       const handler = (e: KeyboardEvent) => {
          const key = e.key;
-         if (!key.match(/[a-z]/i)) return;
+         if (!key.match(/[a-zA-Z]/i)) return;
 
          e.preventDefault();
-         addGuessedLetter(key);
+         addGuessedLetter(key.toLowerCase());
       };
 
       document.addEventListener("keypress", handler);

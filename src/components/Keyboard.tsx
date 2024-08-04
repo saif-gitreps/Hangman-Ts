@@ -1,7 +1,7 @@
 const generateKeys = (): string[] => {
    const letters: string[] = [];
    for (let i = 0; i < 26; i++) {
-      letters.push(String.fromCharCode(65 + i));
+      letters.push(String.fromCharCode(97 + i));
    }
    return letters;
 };
@@ -29,14 +29,14 @@ function Keyboard({
             <button
                onClick={() => addGuessedLetter(key)}
                key={key}
-               className={`w-28 bg-gray-200 m-1 border-8 p-2 border-gray-200 font-semibold rounded-lg hover:bg-gray-300 hover:cursor-pointer text-5xl ${
-                  activeLetters.includes(key) ? "bg-green-500 hover:bg-green-500" : ""
-               } ${inactiveLetters.includes(key) ? "opacity-60 hover:opacity-60" : ""}`}
+               className={`w-28 bg-gray-200 m-1 p-2 border-gray-200 font-semibold rounded-lg hover:opacity-50 hover:cursor-pointer text-4xl 
+               ${activeLetters.includes(key) ? "bg-green-600 hover:bg-green-600" : ""} 
+               ${inactiveLetters.includes(key) ? "opacity-50 hover:opacity-50" : ""}`}
                disabled={
                   activeLetters.includes(key) || inactiveLetters.includes(key) || disabled
                }
             >
-               {key}
+               {key.toUpperCase()}
             </button>
          ))}
          <button
@@ -44,9 +44,9 @@ function Keyboard({
             onClick={() => {
                reset();
             }}
-            className="`w-28 bg-gray-200 m-1  font-semibold p-2 border-8 rounded-md hover:bg-gray-300 text-5xl"
+            className="`w-28 bg-yellow-500 m-1 font-bold p-2 rounded-lg hover:bg-yellow-700 text-4xl"
          >
-            new
+            New
          </button>
       </div>
    );
