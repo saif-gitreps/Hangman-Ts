@@ -31,15 +31,16 @@ const LeftLeg = (
    />
 );
 
-function HangmanDrawing() {
+const BodyParts = [Head, Body, RightArm, LeftArm, RightLeg, LeftLeg];
+
+type HangmanDrawingProps = {
+   numberOfGuesses: number;
+};
+
+function HangmanDrawing({ numberOfGuesses }: HangmanDrawingProps) {
    return (
       <div className="relative">
-         {Head}
-         {Body}
-         {RightArm}
-         {LeftArm}
-         {RightLeg}
-         {LeftLeg}
+         {BodyParts.slice(0, numberOfGuesses)}
          <div className="h-12 w-2 bg-black absolute top-0 right-0" />
          <div className="h-2 w-48 bg-black ml-32" />
          <div className="h-96 w-2 bg-black ml-32" />
