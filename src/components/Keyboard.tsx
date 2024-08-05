@@ -29,7 +29,7 @@ function Keyboard({
             <button
                onClick={() => addGuessedLetter(key)}
                key={key}
-               className={`w-28 bg-gray-200 m-1 p-2 border-gray-200 font-semibold rounded-lg hover:opacity-50 hover:cursor-pointer text-4xl 
+               className={`w-28 bg-gray-200 m-1 p-2 border-gray-200 font-semibold rounded-lg hover:opacity-50 hover:cursor-pointer text-2xl 2xl:text-4xl 
                ${activeLetters.includes(key) ? "bg-green-600 hover:bg-green-600" : ""} 
                ${inactiveLetters.includes(key) ? "opacity-50 hover:opacity-50" : ""}`}
                disabled={

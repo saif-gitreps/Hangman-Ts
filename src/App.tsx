@@ -12,7 +12,7 @@ function App() {
       (letter) => !wordToGuess.word.includes(letter)
    );
 
-   const isLoser: boolean = incorrectLetters.length >= 6;
+   const isLoser: boolean = incorrectLetters.length >= 8;
    const checkWinner = (): boolean => {
       let count = 0;
       wordToGuess.word
@@ -63,8 +63,8 @@ function App() {
    };
 
    return (
-      <div className="max-w-8xl flex flex-col gap-8 my-0 mx-auto items-center bg-black">
-         <div className="text-3xl font-bold text-center text-white">
+      <div className="max-w-5xl flex flex-col gap-8 my-0 mx-auto items-center bg-black">
+         <div className="text-xl 2xl:text-2xl font-bold text-center text-white">
             {wordToGuess.hint && <h1>hint: {wordToGuess.hint}</h1>}
             {isLoser && <h1 className="text-red-500">loser!</h1>}
             {isWinner && <h1 className="text-green-500">winner!</h1>}

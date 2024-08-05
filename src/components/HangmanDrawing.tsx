@@ -10,6 +10,14 @@ const RightArm = (
    />
 );
 
+const RightHand = (
+   <div className="w-6 h-8 rounded-full border-4 bg-white absolute top-16 -right-24" />
+);
+
+const LeftHand = (
+   <div className="w-6 h-8 rounded-full border-4 bg-white absolute top-16 right-20" />
+);
+
 const LeftArm = (
    <div
       className="w-24 h-2 bg-white absolute top-32 right-2"
@@ -31,7 +39,7 @@ const LeftLeg = (
    />
 );
 
-const BodyParts = [Head, Body, RightArm, LeftArm, RightLeg, LeftLeg];
+const BodyParts = [Head, Body, RightArm, RightHand, LeftArm, LeftHand, RightLeg, LeftLeg];
 
 type HangmanDrawingProps = {
    numberOfGuesses: number;

@@ -520,5 +520,1692 @@
       "hint": "Operate and control the direction and speed of a motor vehicle"
    },
    { "word": "drop", "hint": "Let or make something fall vertically" },
-   { "word": "during", "hint": "Throughout the duration of (a period of time)" }
+   { "word": "during", "hint": "Throughout the duration of (a period of time)" },
+   {
+      "word": "each",
+      "hint": "Used to refer to every one of two or more people or things"
+   },
+   { "word": "early", "hint": "Happening or done before the usual or expected time" },
+   {
+      "word": "east",
+      "hint": "The direction toward the point of the horizon where the sun rises"
+   },
+   {
+      "word": "easy",
+      "hint": "Achieved without great effort; requiring little effort"
+   },
+   {
+      "word": "economy",
+      "hint": "The system of production and management of material wealth"
+   },
+   {
+      "word": "educate",
+      "hint": "Give intellectual, moral, and social instruction to (someone)"
+   },
+   {
+      "word": "effect",
+      "hint": "A change that is a result or consequence of an action or other cause"
+   },
+   { "word": "eight", "hint": "The number following seven" },
+   {
+      "word": "either",
+      "hint": "Used before the first of two (or occasionally more) alternatives"
+   },
+   {
+      "word": "elect",
+      "hint": "Choose (someone) to hold public office or some other position by voting"
+   },
+   { "word": "electric", "hint": "Operated by electricity" },
+   { "word": "eleven", "hint": "The number following ten" },
+   { "word": "else", "hint": "In addition; besides" },
+   { "word": "employ", "hint": "Give work to (someone) and pay them for it" },
+   { "word": "encourage", "hint": "Give support, confidence, or hope to (someone)" },
+   {
+      "word": "engine",
+      "hint": "A machine with moving parts that converts power into motion"
+   },
+   { "word": "english", "hint": "Relating to England or its language" },
+   {
+      "word": "enjoy",
+      "hint": "Take delight or pleasure in (an activity or occasion)"
+   },
+   { "word": "enough", "hint": "As much or as many as required" },
+   { "word": "enter", "hint": "Come or go into (a place)" },
+   {
+      "word": "environment",
+      "hint": "The surroundings or conditions in which a person, animal, or plant lives"
+   },
+   { "word": "equal", "hint": "Being the same in quantity, size, degree, or value" },
+   { "word": "especial", "hint": "Better or greater than usual" },
+   {
+      "word": "europe",
+      "hint": "A continent to the west of Asia, consisting of many countries"
+   },
+   {
+      "word": "even",
+      "hint": "Flat and smooth; without noticeable lumps or indentations"
+   },
+   {
+      "word": "evening",
+      "hint": "The period of time at the end of the day, usually from about 6 p.m. to bedtime"
+   },
+   { "word": "ever", "hint": "At any time" },
+   {
+      "word": "every",
+      "hint": "Including all the individual members of a set without exception"
+   },
+   {
+      "word": "evidence",
+      "hint": "The available body of facts or information indicating whether a belief or proposition is true or valid"
+   },
+   { "word": "exact", "hint": "Not approximated in any way; precise" },
+   { "word": "example", "hint": "A representative form or pattern" },
+   { "word": "except", "hint": "Not including; other than" },
+   {
+      "word": "excuse",
+      "hint": "A reason or explanation put forward to defend or justify a fault or offense"
+   },
+   {
+      "word": "exercise",
+      "hint": "Activity requiring physical effort, carried out to sustain or improve health and fitness"
+   },
+   { "word": "exist", "hint": "Have objective reality or being" },
+   { "word": "expect", "hint": "Regard (something) as likely to happen" },
+   {
+      "word": "expense",
+      "hint": "The cost required for something; the money spent on something"
+   },
+   {
+      "word": "experience",
+      "hint": "Practical contact with and observation of facts or events"
+   },
+   {
+      "word": "explain",
+      "hint": "Make (an idea, situation, or problem) clear to someone by describing it in more detail"
+   },
+   {
+      "word": "express",
+      "hint": "Convey (a thought or feeling) in words or by gestures and conduct"
+   },
+   { "word": "extra", "hint": "More than is usual, expected, or necessary" },
+   {
+      "word": "face",
+      "hint": "The front part of the head, including the forehead, eyes, nose, and mouth"
+   },
+   { "word": "fact", "hint": "A thing that is known or proved to be true" },
+   { "word": "fair", "hint": "In accordance with the rules or standards; legitimate" },
+   {
+      "word": "fall",
+      "hint": "Move downward, typically rapidly and freely without control"
+   },
+   { "word": "family", "hint": "A group consisting of parents and their children" },
+   {
+      "word": "farm",
+      "hint": "An area of land and its buildings used for growing crops and raising animals"
+   },
+   { "word": "fast", "hint": "Moving or capable of moving at high speed" },
+   { "word": "father", "hint": "A man in relation to his child or children" },
+   {
+      "word": "favour",
+      "hint": "Approval, support, or liking for someone or something"
+   },
+   { "word": "feed", "hint": "Give food to" },
+   {
+      "word": "feel",
+      "hint": "Be aware of (a person or object) through touching or being touched"
+   },
+   {
+      "word": "field",
+      "hint": "An area of open land, especially one planted with crops or pasture"
+   },
+   {
+      "word": "fight",
+      "hint": "Take part in a violent struggle involving physical force"
+   },
+   { "word": "figure", "hint": "A number representing a particular value" },
+   { "word": "file", "hint": "A collection of documents or records" },
+   { "word": "fill", "hint": "Cause (a space or container) to become full" },
+   {
+      "word": "film",
+      "hint": "A story or event recorded by a camera and shown in a theater or on television"
+   },
+   { "word": "final", "hint": "Last; occurring at the end" },
+   {
+      "word": "finance",
+      "hint": "The management of large amounts of money, especially by governments or large companies"
+   },
+   { "word": "find", "hint": "Discover or perceive by chance or unexpectedly" },
+   { "word": "fine", "hint": "Of high quality" },
+   { "word": "finish", "hint": "Bring (a task or activity) to an end" },
+   {
+      "word": "fire",
+      "hint": "The combustion of something that provides light, heat, and smoke"
+   },
+   { "word": "first", "hint": "Coming before all others in time or order" },
+   {
+      "word": "fish",
+      "hint": "A limbless cold-blooded vertebrate animal with gills and fins"
+   },
+   { "word": "five", "hint": "The number following four" },
+   {
+      "word": "flat",
+      "hint": "Having a level surface without raised areas or indentations"
+   },
+   { "word": "floor", "hint": "The lower surface of a room on which one may walk" },
+   {
+      "word": "follow",
+      "hint": "Go or come after (a person or thing proceeding ahead)"
+   },
+   {
+      "word": "food",
+      "hint": "Any nutritious substance that people or animals eat or drink"
+   },
+   { "word": "foot", "hint": "The lower extremity of the leg below the ankle" },
+   {
+      "word": "force",
+      "hint": "Strength or energy as an attribute of physical action or movement"
+   },
+   { "word": "forget", "hint": "Fail to remember" },
+   { "word": "form", "hint": "The visible shape or configuration of something" },
+   {
+      "word": "fortune",
+      "hint": "Chance or luck as an arbitrary force affecting human affairs"
+   },
+   { "word": "forward", "hint": "Toward the front" },
+   { "word": "four", "hint": "The number following three" },
+   { "word": "france", "hint": "A country in Western Europe" },
+   { "word": "free", "hint": "Not under the control or in the power of another" },
+   { "word": "friday", "hint": "The day of the week before Saturday" },
+   {
+      "word": "friend",
+      "hint": "A person whom one knows and with whom one has a bond of mutual affection"
+   },
+   {
+      "word": "from",
+      "hint": "Indicating the point in space at which a journey, motion, or action starts"
+   },
+   {
+      "word": "front",
+      "hint": "The side of something that is facing or closest to the observer"
+   },
+   { "word": "game", "hint": "A form of play or sport" },
+   { "word": "garden", "hint": "A piece of ground for growing flowers or vegetables" },
+   { "word": "general", "hint": "Widespread or common" },
+   { "word": "germany", "hint": "A country in Central Europe" },
+   { "word": "girl", "hint": "A female child" },
+   { "word": "give", "hint": "Freely transfer possession of something" },
+   {
+      "word": "glass",
+      "hint": "A hard, brittle substance made by fusing sand with soda and lime"
+   },
+   { "word": "good", "hint": "To be desired or approved of" },
+   { "word": "goodbye", "hint": "An expression of farewell" },
+   {
+      "word": "govern",
+      "hint": "Conduct the policy, actions, and affairs of (a state, organization, or people)"
+   },
+   {
+      "word": "grand",
+      "hint": "Magnificent and imposing in appearance, size, or style"
+   },
+   { "word": "grant", "hint": "Agree to give or allow (something requested)" },
+   {
+      "word": "great",
+      "hint": "Of an extent, amount, or intensity considerably above the normal or average"
+   },
+   { "word": "green", "hint": "Of the color between blue and yellow in the spectrum" },
+   { "word": "ground", "hint": "The solid surface of the earth" },
+   {
+      "word": "group",
+      "hint": "A number of people or things that are located, gathered, or classed together"
+   },
+   {
+      "word": "grow",
+      "hint": "Undergo natural development by increasing in size and changing physically"
+   },
+   {
+      "word": "guess",
+      "hint": "Estimate or suppose (something) without sufficient information"
+   },
+   {
+      "word": "hair",
+      "hint": "Any of the fine threadlike strands growing from the skin of humans, mammals, and some other animals"
+   },
+   {
+      "word": "half",
+      "hint": "Either of two equal or corresponding parts into which something is or can be divided"
+   },
+   {
+      "word": "hall",
+      "hint": "The room or space just inside the front entrance of a house or building"
+   },
+   { "word": "hand", "hint": "The end part of a person's arm beyond the wrist" },
+   {
+      "word": "hang",
+      "hint": "Suspend or be suspended from above with the lower part dangling free"
+   },
+   { "word": "happen", "hint": "Take place; occur" },
+   { "word": "happy", "hint": "Feeling or showing pleasure or contentment" },
+   { "word": "hard", "hint": "Solid, firm, and resistant to pressure" },
+   { "word": "hate", "hint": "Intense or passionate dislike" },
+   { "word": "have", "hint": "Possess, own, or hold" },
+   { "word": "head", "hint": "The upper part of the body of a human or animal" },
+   { "word": "health", "hint": "The state of being free from illness or injury" },
+   {
+      "word": "hear",
+      "hint": "Perceive with the ear the sound made by (someone or something)"
+   },
+   {
+      "word": "heart",
+      "hint": "A hollow muscular organ that pumps blood through the circulatory system"
+   },
+   { "word": "heat", "hint": "The quality of being hot; high temperature" },
+   { "word": "heavy", "hint": "Of great weight; difficult to lift or move" },
+   {
+      "word": "hell",
+      "hint": "A place regarded in various religions as a spiritual realm of evil and suffering"
+   },
+   {
+      "word": "help",
+      "hint": "Make it easier for (someone) to do something by offering one's services or resources"
+   },
+   { "word": "here", "hint": "In, at, or to this place or position" },
+   { "word": "high", "hint": "Of great vertical extent" },
+   {
+      "word": "history",
+      "hint": "The study of past events, particularly in human affairs"
+   },
+   { "word": "hold", "hint": "Grasp, carry, or support with one's arms or hands" },
+   {
+      "word": "holiday",
+      "hint": "A day of festivity or recreation when no work is done"
+   },
+   {
+      "word": "home",
+      "hint": "The place where one lives permanently, especially as a member of a family or household"
+   },
+   { "word": "honest", "hint": "Free of deceit and untruthfulness; sincere" },
+   {
+      "word": "hope",
+      "hint": "A feeling of expectation and desire for a certain thing to happen"
+   },
+   {
+      "word": "horse",
+      "hint": "A large plant-eating domesticated mammal with solid hooves"
+   },
+   {
+      "word": "hospital",
+      "hint": "An institution providing medical and surgical treatment and nursing care for sick or injured people"
+   },
+   {
+      "word": "hour",
+      "hint": "A period of time equal to a twenty-fourth part of a day and night"
+   },
+   { "word": "house", "hint": "A building for human habitation" },
+   {
+      "word": "however",
+      "hint": "Used to introduce a statement that contrasts with or seems to contradict something that has been said previously"
+   },
+   { "word": "hullo", "hint": "A variant spelling of hello, used as a greeting" },
+   {
+      "word": "hundred",
+      "hint": "The number equivalent to the product of ten and ten; 100"
+   },
+   { "word": "husband", "hint": "A married man considered in relation to his spouse" },
+   {
+      "word": "idea",
+      "hint": "A thought or suggestion as to a possible course of action"
+   },
+   {
+      "word": "identify",
+      "hint": "Establish or indicate who or what (someone or something) is"
+   },
+   { "word": "imagine", "hint": "Form a mental image or concept of" },
+   { "word": "important", "hint": "Of great significance or value" },
+   { "word": "improve", "hint": "Make or become better" },
+   { "word": "include", "hint": "Comprise or contain as part of a whole" },
+   {
+      "word": "income",
+      "hint": "Money received, especially on a regular basis, for work or through investments"
+   },
+   { "word": "increase", "hint": "Become or make greater in size, amount, or degree" },
+   {
+      "word": "indeed",
+      "hint": "Used to emphasize a statement or response confirming something already suggested"
+   },
+   {
+      "word": "individual",
+      "hint": "A single human being as distinct from a group, class, or family"
+   },
+   {
+      "word": "industry",
+      "hint": "Economic activity concerned with the processing of raw materials and manufacture of goods in factories"
+   },
+   { "word": "inform", "hint": "Give (someone) facts or information; tell" },
+   { "word": "inside", "hint": "The inner side or surface of something" },
+   { "word": "instead", "hint": "As an alternative or substitute" },
+   {
+      "word": "insure",
+      "hint": "Arrange for compensation in the event of damage to or loss of (property), or injury to or the death of (someone)"
+   },
+   {
+      "word": "interest",
+      "hint": "The state of wanting to know or learn about something or someone"
+   },
+   {
+      "word": "into",
+      "hint": "Expressing movement or action with the result that someone or something becomes enclosed or surrounded by something else"
+   },
+   {
+      "word": "introduce",
+      "hint": "Bring (something, especially a product, measure, or concept) into use or operation for the first time"
+   },
+   {
+      "word": "invest",
+      "hint": "Expend money with the expectation of achieving a profit or material result"
+   },
+   {
+      "word": "involve",
+      "hint": "Have or include (something) as a necessary or integral part or result"
+   },
+   {
+      "word": "issue",
+      "hint": "An important topic or problem for debate or discussion"
+   },
+   {
+      "word": "item",
+      "hint": "An individual article or unit, especially one that is part of a list, collection, or set"
+   },
+   { "word": "hold", "hint": "Grasp, carry, or support with one's arms or hands" },
+   {
+      "word": "holiday",
+      "hint": "A day of festivity or recreation when no work is done"
+   },
+   {
+      "word": "home",
+      "hint": "The place where one lives permanently, especially as a member of a family or household"
+   },
+   { "word": "honest", "hint": "Free of deceit and untruthfulness; sincere" },
+   {
+      "word": "hope",
+      "hint": "A feeling of expectation and desire for a certain thing to happen"
+   },
+   {
+      "word": "horse",
+      "hint": "A large plant-eating domesticated mammal with solid hooves"
+   },
+   {
+      "word": "hospital",
+      "hint": "An institution providing medical and surgical treatment and nursing care for sick or injured people"
+   },
+   {
+      "word": "hour",
+      "hint": "A period of time equal to a twenty-fourth part of a day and night"
+   },
+   { "word": "house", "hint": "A building for human habitation" },
+   {
+      "word": "however",
+      "hint": "Used to introduce a statement that contrasts with or seems to contradict something that has been said previously"
+   },
+   { "word": "hullo", "hint": "A variant spelling of hello, used as a greeting" },
+   {
+      "word": "hundred",
+      "hint": "The number equivalent to the product of ten and ten; 100"
+   },
+   { "word": "husband", "hint": "A married man considered in relation to his spouse" },
+   {
+      "word": "idea",
+      "hint": "A thought or suggestion as to a possible course of action"
+   },
+   {
+      "word": "identify",
+      "hint": "Establish or indicate who or what (someone or something) is"
+   },
+   { "word": "imagine", "hint": "Form a mental image or concept of" },
+   { "word": "important", "hint": "Of great significance or value" },
+   { "word": "improve", "hint": "Make or become better" },
+   { "word": "include", "hint": "Comprise or contain as part of a whole" },
+   {
+      "word": "income",
+      "hint": "Money received, especially on a regular basis, for work or through investments"
+   },
+   { "word": "increase", "hint": "Become or make greater in size, amount, or degree" },
+   {
+      "word": "indeed",
+      "hint": "Used to emphasize a statement or response confirming something already suggested"
+   },
+   {
+      "word": "individual",
+      "hint": "A single human being as distinct from a group, class, or family"
+   },
+   {
+      "word": "industry",
+      "hint": "Economic activity concerned with the processing of raw materials and manufacture of goods in factories"
+   },
+   { "word": "inform", "hint": "Give (someone) facts or information; tell" },
+   { "word": "inside", "hint": "The inner side or surface of something" },
+   { "word": "instead", "hint": "As an alternative or substitute" },
+   {
+      "word": "insure",
+      "hint": "Arrange for compensation in the event of damage to or loss of (property), or injury to or the death of (someone)"
+   },
+   {
+      "word": "interest",
+      "hint": "The state of wanting to know or learn about something or someone"
+   },
+   {
+      "word": "into",
+      "hint": "Expressing movement or action with the result that someone or something becomes enclosed or surrounded by something else"
+   },
+   {
+      "word": "introduce",
+      "hint": "Bring (something, especially a product, measure, or concept) into use or operation for the first time"
+   },
+   {
+      "word": "invest",
+      "hint": "Expend money with the expectation of achieving a profit or material result"
+   },
+   {
+      "word": "involve",
+      "hint": "Have or include (something) as a necessary or integral part or result"
+   },
+   {
+      "word": "issue",
+      "hint": "An important topic or problem for debate or discussion"
+   },
+   {
+      "word": "item",
+      "hint": "An individual article or unit, especially one that is part of a list, collection, or set"
+   },
+   {
+      "word": "jesus",
+      "hint": "The central figure of Christianity, believed to be the son of God and the awaited Messiah (Christ)"
+   },
+   { "word": "join", "hint": "Link; connect" },
+   {
+      "word": "judge",
+      "hint": "A public officer appointed to decide cases in a court of law"
+   },
+   {
+      "word": "jump",
+      "hint": "Push oneself off a surface and into the air by using the muscles in one's legs and feet"
+   },
+   {
+      "word": "just",
+      "hint": "Based on or behaving according to what is morally right and fair"
+   },
+   { "word": "keep", "hint": "Have or retain possession of" },
+   {
+      "word": "kill",
+      "hint": "Cause the death of (a person, animal, or other living thing)"
+   },
+   {
+      "word": "kind",
+      "hint": "A group of people or things having similar characteristics"
+   },
+   {
+      "word": "king",
+      "hint": "The male ruler of an independent state, especially one who inherits the position by right of birth"
+   },
+   { "word": "kitchen", "hint": "A room or area where food is prepared and cooked" },
+   {
+      "word": "knock",
+      "hint": "Strike a surface noisily to attract attention, especially when waiting to be let in through a door"
+   },
+   { "word": "know", "hint": "Be aware of through observation, inquiry, or information" },
+   { "word": "labour", "hint": "Work, especially hard physical work" },
+   { "word": "lady", "hint": "A polite or formal way of referring to a woman" },
+   {
+      "word": "land",
+      "hint": "The part of the earth's surface that is not covered by water"
+   },
+   {
+      "word": "language",
+      "hint": "The method of human communication, either spoken or written, consisting of the use of words in a structured and conventional way"
+   },
+   {
+      "word": "large",
+      "hint": "Of considerable or relatively great size, extent, or capacity"
+   },
+   { "word": "last", "hint": "Coming after all others in time or order; final" },
+   {
+      "word": "late",
+      "hint": "Doing something or taking place after the expected, proper, or usual time"
+   },
+   {
+      "word": "laugh",
+      "hint": "Make the spontaneous sounds and movements of the face and body that are the instinctive expressions of lively amusement"
+   },
+   {
+      "word": "lead",
+      "hint": "Cause (a person or animal) to go with one by holding them by the hand, a halter, a rope, etc., while moving forward"
+   },
+   {
+      "word": "learn",
+      "hint": "Gain or acquire knowledge of or skill in (something) by study, experience, or being taught"
+   },
+   { "word": "leave", "hint": "Go away from" },
+   {
+      "word": "left",
+      "hint": "On, towards, or relating to the side of a human body or of a thing which is to the west when the person or thing is facing north"
+   },
+   { "word": "less", "hint": "A smaller amount of; not as much" },
+   {
+      "word": "letter",
+      "hint": "A character representing one or more of the sounds used in speech; any of the symbols of an alphabet"
+   },
+   {
+      "word": "level",
+      "hint": "A horizontal plane or line with respect to the distance above or below a given point"
+   },
+   { "word": "life", "hint": "The existence of an individual human being or animal" },
+   {
+      "word": "light",
+      "hint": "The natural agent that stimulates sight and makes things visible"
+   },
+   { "word": "like", "hint": "Find agreeable, enjoyable, or satisfactory" },
+   { "word": "likely", "hint": "Such as well might happen or be true; probable" },
+   {
+      "word": "limit",
+      "hint": "A point or level beyond which something does not or may not extend or pass"
+   },
+   { "word": "line", "hint": "A long, narrow mark or band" },
+   {
+      "word": "link",
+      "hint": "A relationship between two things or situations, especially where one affects the other"
+   },
+   {
+      "word": "list",
+      "hint": "A number of connected items or names written or printed consecutively, typically one below the other"
+   },
+   { "word": "listen", "hint": "Give one's attention to a sound" },
+   { "word": "little", "hint": "Small in size, amount, or degree" },
+   { "word": "live", "hint": "Remain alive" },
+   {
+      "word": "load",
+      "hint": "A heavy or bulky thing that is being carried or is about to be carried"
+   },
+   {
+      "word": "local",
+      "hint": "Relating or restricted to a particular area or one's neighborhood"
+   },
+   {
+      "word": "lock",
+      "hint": "A mechanism for keeping a door, lid, etc., fastened, typically operated only by a key of a particular form"
+   },
+   { "word": "london", "hint": "The capital city of England and the United Kingdom" },
+   { "word": "long", "hint": "Measuring a great distance from end to end" },
+   {
+      "word": "look",
+      "hint": "Direct one's gaze toward someone or something or in a specified direction"
+   },
+   {
+      "word": "lord",
+      "hint": "Someone or something having power, authority, or influence; a master or ruler"
+   },
+   { "word": "lose", "hint": "Be deprived of or cease to have or retain (something)" },
+   { "word": "love", "hint": "An intense feeling of deep affection" },
+   {
+      "word": "luck",
+      "hint": "Success or failure apparently brought by chance rather than through one's own actions"
+   },
+   {
+      "word": "lunch",
+      "hint": "A meal eaten in the middle of the day, typically one that is lighter or less formal than an evening meal"
+   },
+   {
+      "word": "machine",
+      "hint": "An apparatus using mechanical power and having several parts, each with a definite function and together performing a particular task"
+   },
+   { "word": "main", "hint": "Chief in size or importance" },
+   { "word": "major", "hint": "Important, serious, or significant" },
+   {
+      "word": "make",
+      "hint": "Form (something) by putting parts together or combining substances; create"
+   },
+   {
+      "word": "manage",
+      "hint": "Be in charge of (a company, establishment, or undertaking); administer; run"
+   },
+   { "word": "many", "hint": "A large number of" },
+   {
+      "word": "mark",
+      "hint": "A small area on a surface having a different color from its surroundings, typically one caused by accident or damage"
+   },
+   {
+      "word": "market",
+      "hint": "A regular gathering of people for the purchase and sale of provisions, livestock, and other commodities"
+   },
+   { "word": "marry", "hint": "Join in marriage" },
+   { "word": "match", "hint": "A person or thing equal or similar to another" },
+   {
+      "word": "matter",
+      "hint": "That which occupies space and has mass; physical substance"
+   },
+   { "word": "maybe", "hint": "Perhaps; possibly" },
+   {
+      "word": "mean",
+      "hint": "Intend to convey, indicate, or refer to (a particular thing or notion); signify"
+   },
+   { "word": "meaning", "hint": "What is meant by a word, text, concept, or action" },
+   {
+      "word": "measure",
+      "hint": "Ascertain the size, amount, or degree of (something) by using an instrument or device marked in standard units"
+   },
+   {
+      "word": "meet",
+      "hint": "Come into the presence or company of (someone) by chance or arrangement"
+   },
+   {
+      "word": "member",
+      "hint": "An individual belonging to a group such as a society or team"
+   },
+   {
+      "word": "mention",
+      "hint": "Refer to something briefly and without going into detail"
+   },
+   {
+      "word": "middle",
+      "hint": "At an equal distance from the extremities of something; central"
+   },
+   {
+      "word": "might",
+      "hint": "Past of may, used tentatively to indicate the possibility of an action"
+   },
+   { "word": "mile", "hint": "A unit of linear measure equal to 1,760 yards" },
+   { "word": "milk", "hint": "A white liquid produced by the mammary glands of mammals" },
+   {
+      "word": "million",
+      "hint": "The number equivalent to the product of a thousand and a thousand"
+   },
+   {
+      "word": "mind",
+      "hint": "The element of a person that enables them to be aware of the world and their experiences, to think, and to feel"
+   },
+   {
+      "word": "minister",
+      "hint": "A member of the clergy, especially in Protestant churches"
+   },
+   { "word": "minus", "hint": "With the subtraction of" },
+   {
+      "word": "minute",
+      "hint": "A period of time equal to sixty seconds or a sixtieth of an hour"
+   },
+   {
+      "word": "miss",
+      "hint": "Fail to hit, reach, or come into contact with (something aimed at)"
+   },
+   {
+      "word": "mister",
+      "hint": "A title used before a surname or full name to address or refer to a man without a higher or honorific or professional title"
+   },
+   { "word": "moment", "hint": "A very brief period of time" },
+   {
+      "word": "monday",
+      "hint": "The day of the week before Tuesday and following Sunday"
+   },
+   {
+      "word": "money",
+      "hint": "A current medium of exchange in the form of coins and banknotes; coins and banknotes collectively"
+   },
+   {
+      "word": "month",
+      "hint": "Each of the twelve named periods into which a year is divided"
+   },
+   { "word": "more", "hint": "A greater or additional amount or degree" },
+   {
+      "word": "morning",
+      "hint": "The period of time between midnight and noon, especially from sunrise to noon"
+   },
+   { "word": "most", "hint": "Greatest in amount or degree" },
+   { "word": "mother", "hint": "A woman in relation to her child or children" },
+   { "word": "motion", "hint": "The action or process of moving or being moved" },
+   { "word": "move", "hint": "Go in a specified direction or manner; change position" },
+   { "word": "much", "hint": "A great amount or quantity of" },
+   {
+      "word": "music",
+      "hint": "The art of arranging sounds in time to produce a composition through the elements of melody, harmony, rhythm, and timbre"
+   },
+   { "word": "must", "hint": "Be obliged to; should (expressing necessity)" },
+   {
+      "word": "name",
+      "hint": "A word or set of words by which a person or thing is known, addressed, or referred to"
+   },
+   {
+      "word": "nation",
+      "hint": "A large body of people united by common descent, history, culture, or language, inhabiting a particular country or territory"
+   },
+   {
+      "word": "nature",
+      "hint": "The phenomena of the physical world collectively, including plants, animals, the landscape, and other features and products of the earth, as opposed to humans or human creations"
+   },
+   { "word": "near", "hint": "At or to a short distance away" },
+   {
+      "word": "necessary",
+      "hint": "Required to be done, achieved, or present; needed; essential"
+   },
+   {
+      "word": "need",
+      "hint": "Require (something) because it is essential or very important rather than just desirable"
+   },
+   { "word": "never", "hint": "At no time in the past or future; not ever" },
+   {
+      "word": "news",
+      "hint": "Newly received or noteworthy information, especially about recent or important events"
+   },
+   { "word": "next", "hint": "Immediately following in time, order, or importance" },
+   { "word": "nice", "hint": "Pleasant; agreeable; satisfactory" },
+   {
+      "word": "night",
+      "hint": "The period from sunset to sunrise in each twenty-four hours"
+   },
+   {
+      "word": "nine",
+      "hint": "Equivalent to the product of three and three; one less than ten; 9"
+   },
+   { "word": "none", "hint": "Not any" },
+   { "word": "normal", "hint": "Conforming to a standard; usual, typical, or expected" },
+   {
+      "word": "north",
+      "hint": "The direction in which a compass needle normally points, towards the horizon on the left-hand side of a person facing east, or the part of the horizon lying in this direction"
+   },
+   {
+      "word": "note",
+      "hint": "A brief record of facts, topics, or thoughts, written down as an aid to memory"
+   },
+   { "word": "notice", "hint": "Attention; observation" },
+   {
+      "word": "number",
+      "hint": "An arithmetical value, expressed by a word, symbol, or figure, representing a particular quantity and used in counting and making calculations"
+   },
+   {
+      "word": "obvious",
+      "hint": "Easily perceived or understood; clear, self-evident, or apparent"
+   },
+   {
+      "word": "occasion",
+      "hint": "A particular event, or the time at which it takes place"
+   },
+   {
+      "word": "offer",
+      "hint": "Present or proffer (something) for (someone) to accept or reject as so desired"
+   },
+   {
+      "word": "office",
+      "hint": "A room, set of rooms, or building used as a place for commercial, professional, or bureaucratic work"
+   },
+   { "word": "often", "hint": "Frequently; many times" },
+   { "word": "okay", "hint": "Used to express agreement or acceptance" },
+   { "word": "once", "hint": "On one occasion or for one time only" },
+   {
+      "word": "only",
+      "hint": "And no one or nothing more besides; solely or exclusively"
+   },
+   {
+      "word": "open",
+      "hint": "Allowing access, passage, or a view through an empty space; not closed or blocked up"
+   },
+   {
+      "word": "operate",
+      "hint": "Control the functioning of (a machine, process, or system)"
+   },
+   {
+      "word": "opportunity",
+      "hint": "A set of circumstances that makes it possible to do something"
+   },
+   {
+      "word": "oppose",
+      "hint": "Disapprove of and attempt to prevent, especially by argument"
+   },
+   {
+      "word": "order",
+      "hint": "Give an authoritative direction or instruction to do something"
+   },
+   { "word": "organize", "hint": "Arrange into a structured whole; order" },
+   {
+      "word": "original",
+      "hint": "Present or existing from the beginning; first or earliest"
+   },
+   {
+      "word": "other",
+      "hint": "Denoting a person or thing that is different or distinct from one already mentioned or known"
+   },
+   {
+      "word": "otherwise",
+      "hint": "In circumstances different from those present or considered; or else"
+   },
+   {
+      "word": "ought",
+      "hint": "Used to indicate duty or correctness, typically when criticizing someone's actions"
+   },
+   { "word": "over", "hint": "Extending directly upward from" },
+   {
+      "word": "pack",
+      "hint": "Fill (a suitcase or bag), especially with clothes and other items needed when away from home"
+   },
+   {
+      "word": "page",
+      "hint": "One or both sides of a sheet of paper in a book, magazine, newspaper, or other collection of bound sheets"
+   },
+   {
+      "word": "paint",
+      "hint": "A colored substance that is spread over a surface and dries to leave a thin decorative or protective coating"
+   },
+   {
+      "word": "pair",
+      "hint": "Two corresponding persons or items, similar in form or function and matched or associated"
+   },
+   {
+      "word": "paper",
+      "hint": "Material manufactured in thin sheets from the pulp of wood or other fibrous substances, used for writing, drawing, or printing on, or as wrapping material"
+   },
+   {
+      "word": "paragraph",
+      "hint": "A distinct section of a piece of writing, usually dealing with a single theme and indicated by a new line, indentation, or numbering"
+   },
+   {
+      "word": "pardon",
+      "hint": "The action of forgiving or being forgiven for an error or offense"
+   },
+   { "word": "parent", "hint": "A father or mother" },
+   { "word": "park", "hint": "A large public green area in a town, used for recreation" },
+   {
+      "word": "part",
+      "hint": "A piece or segment of something such as an object, activity, or period of time, which combined with other pieces makes up the whole"
+   },
+   {
+      "word": "particular",
+      "hint": "Used to single out an individual member of a specified group or class"
+   },
+   {
+      "word": "party",
+      "hint": "A social gathering of invited guests, typically involving eating, drinking, and entertainment"
+   },
+   { "word": "pass", "hint": "Move or cause to move in a specified direction" },
+   { "word": "past", "hint": "Gone by in time and no longer existing" },
+   { "word": "pence", "hint": "Plural form of penny" },
+   {
+      "word": "pension",
+      "hint": "A regular payment made during a person's retirement from an investment fund to which that person or their employer has contributed during their working life"
+   },
+   { "word": "people", "hint": "Human beings in general or considered collectively" },
+   { "word": "percent", "hint": "One part in every hundred" },
+   {
+      "word": "perfect",
+      "hint": "Having all the required or desirable elements, qualities, or characteristics; as good as it is possible to be"
+   },
+   { "word": "perhaps", "hint": "Used to express uncertainty or possibility" },
+   { "word": "period", "hint": "A length or portion of time" },
+   { "word": "person", "hint": "A human being regarded as an individual" },
+   {
+      "word": "photograph",
+      "hint": "A picture made using a camera, in which an image is focused onto film or other light-sensitive material and then made visible and permanent by chemical treatment, or stored digitally"
+   },
+   {
+      "word": "pick",
+      "hint": "Take hold of and remove (a flower, fruit, or vegetable) from where it is growing"
+   },
+   { "word": "picture", "hint": "A painting or drawing" },
+   {
+      "word": "piece",
+      "hint": "A portion of an object or of material, produced by cutting, tearing, or breaking the whole"
+   },
+   { "word": "place", "hint": "A particular position or point in space" },
+   { "word": "plan", "hint": "A detailed proposal for doing or achieving something" },
+   {
+      "word": "play",
+      "hint": "Engage in activity for enjoyment and recreation rather than a serious or practical purpose"
+   },
+   { "word": "please", "hint": "Cause to feel happy and satisfied" },
+   { "word": "plus", "hint": "With the addition of" },
+   {
+      "word": "point",
+      "hint": "The tapered, sharp end of a tool, weapon, or other object"
+   },
+   {
+      "word": "police",
+      "hint": "The civil force of a national or local government, responsible for the prevention and detection of crime and the maintenance of public order"
+   },
+   {
+      "word": "policy",
+      "hint": "A course or principle of action adopted or proposed by an organization or individual"
+   },
+   {
+      "word": "politic",
+      "hint": "Relating to the government or public affairs of a country"
+   },
+   {
+      "word": "poor",
+      "hint": "Lacking sufficient money to live at a standard considered comfortable or normal in a society"
+   },
+   {
+      "word": "position",
+      "hint": "A place where someone or something is located or has been put"
+   },
+   {
+      "word": "positive",
+      "hint": "Consisting in or characterized by the presence or possession of features or qualities rather than their absence"
+   },
+   { "word": "possible", "hint": "Able to be done or achieved" },
+   {
+      "word": "post",
+      "hint": "A long, sturdy piece of timber or metal set upright in the ground and used to support something or as a marker"
+   },
+   {
+      "word": "pound",
+      "hint": "A unit of weight in general use equal to 16 oz. avoirdupois (0.4536 kg)"
+   },
+   {
+      "word": "power",
+      "hint": "The ability or capacity to do something or act in a particular way"
+   },
+   {
+      "word": "practise",
+      "hint": "Perform (an activity) or exercise (a skill) repeatedly or regularly in order to acquire, improve or maintain proficiency in it"
+   },
+   { "word": "prepare", "hint": "Make (something) ready for use or consideration" },
+   { "word": "present", "hint": "Existing or occurring now" },
+   {
+      "word": "press",
+      "hint": "Move or cause to move into a position of contact with something by exerting continuous physical force"
+   },
+   {
+      "word": "pressure",
+      "hint": "The continuous physical force exerted on or against an object by something in contact with it"
+   },
+   {
+      "word": "presume",
+      "hint": "Suppose that something is the case on the basis of probability"
+   },
+   {
+      "word": "pretty",
+      "hint": "Attractive in a delicate way without being truly beautiful or handsome"
+   },
+   { "word": "previous", "hint": "Existing or occurring before in time or order" },
+   {
+      "word": "price",
+      "hint": "The amount of money expected, required, or given in payment for something"
+   },
+   {
+      "word": "print",
+      "hint": "Produce (books, newspapers, magazines, etc.), especially in large quantities, by a mechanical process involving the transfer of text, images, or designs to paper"
+   },
+   {
+      "word": "private",
+      "hint": "Belonging to or for the use of one particular person or group of people only"
+   },
+   { "word": "probable", "hint": "Likely to be the case or to happen" },
+   {
+      "word": "problem",
+      "hint": "A matter or situation regarded as unwelcome or harmful and needing to be dealt with and overcome"
+   },
+   { "word": "proceed", "hint": "Begin or continue a course of action" },
+   {
+      "word": "process",
+      "hint": "A series of actions or steps taken in order to achieve a particular end"
+   },
+   { "word": "produce", "hint": "Make or manufacture from components or raw materials" },
+   {
+      "word": "product",
+      "hint": "An article or substance that is manufactured or refined for sale"
+   },
+   {
+      "word": "programme",
+      "hint": "A planned series of future events, items, or performances"
+   },
+   {
+      "word": "project",
+      "hint": "An individual or collaborative enterprise that is carefully planned and designed to achieve a particular aim"
+   },
+   {
+      "word": "proper",
+      "hint": "Truly what something is said or regarded to be; genuine"
+   },
+   {
+      "word": "propose",
+      "hint": "Put forward (a plan or suggestion) for consideration by others"
+   },
+   { "word": "protect", "hint": "Keep safe from harm or injury" },
+   { "word": "provide", "hint": "Make available for use; supply" },
+   {
+      "word": "public",
+      "hint": "Relating to or involving people in general, rather than being limited to a particular individual or group"
+   },
+   {
+      "word": "pull",
+      "hint": "Exert force on (someone or something) so as to cause movement towards oneself"
+   },
+   {
+      "word": "purpose",
+      "hint": "The reason for which something is done or created or for which something exists"
+   },
+   {
+      "word": "push",
+      "hint": "Exert force on (someone or something) in order to move them away from oneself"
+   },
+   {
+      "word": "quality",
+      "hint": "The standard of something as measured against other things of a similar kind; the degree of excellence of something"
+   },
+   {
+      "word": "quarter",
+      "hint": "Each of four equal or corresponding parts into which something is or can be divided"
+   },
+   {
+      "word": "question",
+      "hint": "A sentence worded or expressed so as to elicit information"
+   },
+   { "word": "quick", "hint": "Moving fast or doing something in a short time" },
+   { "word": "quid", "hint": "One pound sterling" },
+   { "word": "quiet", "hint": "Making little or no noise" },
+   {
+      "word": "quite",
+      "hint": "To the utmost or most absolute extent or degree; absolutely; completely"
+   },
+   {
+      "word": "radio",
+      "hint": "The transmission and reception of electromagnetic waves of radio frequency, especially those carrying sound messages"
+   },
+   {
+      "word": "rail",
+      "hint": "A bar or series of bars, typically fixed on upright supports, serving as part of a fence or barrier or used to hang things on"
+   },
+   { "word": "raise", "hint": "Lift or move to a higher position or level" },
+   {
+      "word": "range",
+      "hint": "The area of variation between upper and lower limits on a particular scale"
+   },
+   {
+      "word": "rate",
+      "hint": "A measure, quantity, or frequency, typically one measured against some other quantity or measure"
+   },
+   {
+      "word": "rather",
+      "hint": "Used to indicate one's preference in a particular matter"
+   },
+   {
+      "word": "read",
+      "hint": "Look at and comprehend the meaning of (written or printed matter) by mentally interpreting the characters or symbols of which it is composed"
+   },
+   {
+      "word": "ready",
+      "hint": "In a suitable state for an activity, action, or situation; fully prepared"
+   },
+   {
+      "word": "real",
+      "hint": "Actually existing as a thing or occurring in fact; not imagined or supposed"
+   },
+   {
+      "word": "realise",
+      "hint": "Become fully aware of (something) as a fact; understand clearly"
+   },
+   {
+      "word": "really",
+      "hint": "In actual fact, as opposed to what is said or imagined to be true or possible"
+   },
+   {
+      "word": "reason",
+      "hint": "A cause, explanation, or justification for an action or event"
+   },
+   { "word": "receive", "hint": "Be given, presented with, or paid (something)" },
+   {
+      "word": "recent",
+      "hint": "Having happened, begun, or been done not long ago; belonging to a past period comparatively close to the present"
+   },
+   { "word": "reckon", "hint": "Establish by counting or calculation; calculate" },
+   {
+      "word": "recognize",
+      "hint": "Identify (someone or something) from having encountered them before; know again"
+   },
+   {
+      "word": "recommend",
+      "hint": "Put forward (someone or something) with approval as being suitable for a particular purpose or role"
+   },
+   {
+      "word": "record",
+      "hint": "A thing constituting a piece of evidence about the past, especially an account kept in writing or some other permanent form"
+   },
+   { "word": "reduce", "hint": "Make smaller or less in amount, degree, or size" },
+   { "word": "refer", "hint": "Mention or allude to" },
+   {
+      "word": "regard",
+      "hint": "Consider or think of (someone or something) in a specified way"
+   },
+   {
+      "word": "region",
+      "hint": "An area, especially part of a country or the world having definable characteristics but not always fixed boundaries"
+   },
+   {
+      "word": "relation",
+      "hint": "The way in which two or more people or things are connected; a thing's effect on or relevance to another"
+   },
+   {
+      "word": "remember",
+      "hint": "Have in or be able to bring to one's mind an awareness of (someone or something from the past)"
+   },
+   {
+      "word": "report",
+      "hint": "Give a spoken or written account of something that one has observed, heard, done, or investigated"
+   },
+   {
+      "word": "represent",
+      "hint": "Be entitled or appointed to act or speak for (someone), especially in an official capacity"
+   },
+   { "word": "require", "hint": "Need for a particular purpose" },
+   {
+      "word": "research",
+      "hint": "The systematic investigation into and study of materials and sources in order to establish facts and reach new conclusions"
+   },
+   {
+      "word": "resource",
+      "hint": "A stock or supply of money, materials, staff, and other assets that can be drawn on by a person or organization in order to function effectively"
+   },
+   {
+      "word": "respect",
+      "hint": "A feeling of deep admiration for someone or something elicited by their abilities, qualities, or achievements"
+   },
+   {
+      "word": "responsible",
+      "hint": "Having an obligation to do something, or having control over or care for someone, as part of one's job or role"
+   },
+   {
+      "word": "rest",
+      "hint": "Cease work or movement in order to relax, refresh oneself, or recover strength"
+   },
+   { "word": "result", "hint": "A consequence, effect, or outcome of something" },
+   { "word": "return", "hint": "Come or go back to a place or person" },
+   { "word": "right", "hint": "Morally good, justified, or acceptable" },
+   {
+      "word": "ring",
+      "hint": "A small circular band, typically of precious metal or set with one or more gemstones, worn on a finger as an ornament or a token of marriage, engagement, or authority"
+   },
+   {
+      "word": "rise",
+      "hint": "Move from a lower position to a higher one; come or go up"
+   },
+   {
+      "word": "road",
+      "hint": "A wide way leading from one place to another, especially one with a specially prepared surface which vehicles can use"
+   },
+   {
+      "word": "role",
+      "hint": "The function assumed or part played by a person or thing in a particular situation"
+   },
+   {
+      "word": "roll",
+      "hint": "Move or cause to move in a particular direction by turning over and over on an axis"
+   },
+   {
+      "word": "room",
+      "hint": "Space that can be occupied or where something can be done, especially viewed in terms of whether there is enough"
+   },
+   { "word": "round", "hint": "Shaped like or approximately like a circle or cylinder" },
+   {
+      "word": "rule",
+      "hint": "One of a set of explicit or understood regulations or principles governing conduct within a particular activity or sphere"
+   },
+   {
+      "word": "safe",
+      "hint": "Protected from or not exposed to danger or risk; not likely to be harmed or lost"
+   },
+   {
+      "word": "sale",
+      "hint": "The exchange of a commodity for money; the action of selling something"
+   },
+   { "word": "same", "hint": "Identical; not different" },
+   {
+      "word": "saturday",
+      "hint": "The day of the week before Sunday and following Friday"
+   },
+   {
+      "word": "save",
+      "hint": "Keep safe or rescue (someone or something) from harm or danger"
+   },
+   {
+      "word": "scheme",
+      "hint": "A large-scale systematic plan or arrangement for attaining some particular object or putting a particular idea into effect"
+   },
+   { "word": "school", "hint": "An institution for educating children" },
+   {
+      "word": "science",
+      "hint": "The intellectual and practical activity encompassing the systematic study of the structure and behavior of the physical and natural world through observation and experiment"
+   },
+   {
+      "word": "score",
+      "hint": "The number of points, goals, runs, etc., achieved in a game or by a team or an individual"
+   },
+   {
+      "word": "scotland",
+      "hint": "A country that is part of the United Kingdom, occupying the northern third of the island of Great Britain"
+   },
+   {
+      "word": "seat",
+      "hint": "A thing made or used for sitting on, such as a chair or stool"
+   },
+   {
+      "word": "second",
+      "hint": "Constituting number two in a sequence; coming after the first in time or order; 2nd"
+   },
+   {
+      "word": "secretary",
+      "hint": "A person employed by an individual or in an office to assist with correspondence, keep records, make appointments, and carry out similar tasks"
+   },
+   {
+      "word": "section",
+      "hint": "Any of the more or less distinct parts into which something is or may be divided or from which it is made up"
+   },
+   {
+      "word": "secure",
+      "hint": "Fixed or fastened so as not to give way, become loose, or be lost"
+   },
+   {
+      "word": "seem",
+      "hint": "Give the impression or sensation of being something or having a particular quality"
+   },
+   {
+      "word": "self",
+      "hint": "A person's essential being that distinguishes them from others, especially considered as the object of introspection or reflexive action"
+   },
+   { "word": "sell", "hint": "Give or hand over (something) in exchange for money" },
+   {
+      "word": "send",
+      "hint": "Cause to go or be taken to a particular destination; arrange for the delivery of, especially by mail"
+   },
+   {
+      "word": "sense",
+      "hint": "A faculty by which the body perceives an external stimulus; one of the faculties of sight, smell, hearing, taste, and touch"
+   },
+   { "word": "separate", "hint": "Cause to move or be apart" },
+   { "word": "serious", "hint": "Demanding careful consideration or application" },
+   {
+      "word": "serve",
+      "hint": "Perform duties or services for (another person or an organization)"
+   },
+   { "word": "service", "hint": "The action of helping or doing work for someone" },
+   {
+      "word": "settle",
+      "hint": "Resolve or reach an agreement about (an argument or problem)"
+   },
+   {
+      "word": "seven",
+      "hint": "Equivalent to the sum of three and four; one more than six, or three less than ten; 7"
+   },
+   { "word": "shall", "hint": "Expressing the future tense" },
+   {
+      "word": "share",
+      "hint": "A part or portion of a larger amount that is divided among a number of people, or to which a number of people contribute"
+   },
+   { "word": "sheet", "hint": "A large piece of cloth that is used to cover something" },
+   {
+      "word": "shoe",
+      "hint": "A covering for the foot, typically made of leather, having a sturdy sole and not reaching above the ankle"
+   },
+   {
+      "word": "shoot",
+      "hint": "Kill or wound (a person or animal) with a bullet or arrow"
+   },
+   {
+      "word": "shop",
+      "hint": "A building or part of a building where goods or services are sold; a store"
+   },
+   { "word": "short", "hint": "Measuring a small distance from end to end" },
+   {
+      "word": "should",
+      "hint": "Used to indicate obligation, duty, or correctness, typically when criticizing someone's actions"
+   },
+   { "word": "show", "hint": "Be, allow, or cause to be visible" },
+   {
+      "word": "shut",
+      "hint": "Move (something) into position so that it blocks an opening"
+   },
+   { "word": "sick", "hint": "Affected by physical or mental illness" },
+   {
+      "word": "side",
+      "hint": "A position to the left or right of an object, place, or central point"
+   },
+   {
+      "word": "sign",
+      "hint": "An object, quality, or event whose presence or occurrence indicates the probable presence or occurrence of something else"
+   },
+   { "word": "similar", "hint": "Resembling without being identical" },
+   { "word": "simple", "hint": "Easily understood or done; presenting no difficulty" },
+   {
+      "word": "since",
+      "hint": "In the intervening period between (the time mentioned) and the time under consideration, typically the present"
+   },
+   {
+      "word": "sing",
+      "hint": "Make musical sounds with the voice, especially words with a set tune"
+   },
+   { "word": "single", "hint": "Only one; not one of several" },
+   {
+      "word": "sister",
+      "hint": "A woman or girl in relation to other daughters and sons of her parents"
+   },
+   {
+      "word": "site",
+      "hint": "An area of ground on which a town, building, or monument is constructed"
+   },
+   {
+      "word": "situate",
+      "hint": "Fix or build (something) in a certain place or position"
+   },
+   {
+      "word": "size",
+      "hint": "The relative extent of something; a thing's overall dimensions or magnitude; how big something is"
+   },
+   {
+      "word": "sleep",
+      "hint": "A condition of body and mind such as that which typically recurs for several hours every night, in which the nervous system is relatively inactive, the eyes closed, the postural muscles relaxed, and consciousness practically suspended"
+   },
+   { "word": "slight", "hint": "Small in degree; inconsiderable" },
+   {
+      "word": "slow",
+      "hint": "Moving or operating, or designed to do so, only at a low speed; not quick or fast"
+   },
+   { "word": "small", "hint": "Of a size that is less than normal or usual" },
+   {
+      "word": "smoke",
+      "hint": "A visible suspension of carbon or other particles in air, typically one emitted from a burning substance"
+   },
+   { "word": "social", "hint": "Relating to society or its organization" },
+   {
+      "word": "society",
+      "hint": "The aggregate of people living together in a more or less ordered community"
+   },
+   { "word": "some", "hint": "An unspecified amount or number of" },
+   { "word": "soon", "hint": "In or after a short time" },
+   {
+      "word": "sorry",
+      "hint": "Feeling distress, especially through sympathy with someone else's misfortune"
+   },
+   {
+      "word": "sort",
+      "hint": "A category of things or people having some common feature; a type"
+   },
+   {
+      "word": "sound",
+      "hint": "Vibrations that travel through the air or another medium and can be heard when they reach a person's or animal's ear"
+   },
+   {
+      "word": "south",
+      "hint": "The direction towards the point of the horizon 90° clockwise from east, or the point on the horizon itself"
+   },
+   {
+      "word": "space",
+      "hint": "A continuous area or expanse which is free, available, or unoccupied"
+   },
+   {
+      "word": "speak",
+      "hint": "Say something in order to convey information, an opinion, or a feeling"
+   },
+   {
+      "word": "special",
+      "hint": "Better, greater, or otherwise different from what is usual"
+   },
+   { "word": "specific", "hint": "Clearly defined or identified" },
+   {
+      "word": "speed",
+      "hint": "The rate at which someone or something moves or operates or is able to move or operate"
+   },
+   {
+      "word": "spell",
+      "hint": "Write or name the letters that form (a word) in correct sequence"
+   },
+   { "word": "spend", "hint": "Pay out (money) in buying or hiring goods or services" },
+   {
+      "word": "square",
+      "hint": "A plane figure with four equal straight sides and four right angles"
+   },
+   { "word": "staff", "hint": "All the people employed by a particular organization" },
+   { "word": "stage", "hint": "A point, period, or step in a process or development" },
+   {
+      "word": "stairs",
+      "hint": "A set of steps leading from one floor of a building to another, typically inside the building"
+   },
+   {
+      "word": "stand",
+      "hint": "Have or maintain an upright position, supported by one's feet"
+   },
+   { "word": "standard", "hint": "A level of quality or attainment" },
+   {
+      "word": "start",
+      "hint": "Begin or be reckoned from a particular point in time or space; come into being"
+   },
+   {
+      "word": "state",
+      "hint": "The particular condition that someone or something is in at a specific time"
+   },
+   {
+      "word": "station",
+      "hint": "A regular stopping place on a public transportation route, especially one on a railroad line with a platform and often one or more buildings"
+   },
+   { "word": "stay", "hint": "Remain in the same place" },
+   {
+      "word": "step",
+      "hint": "Lift and set down one's foot or one foot after the other in order to walk somewhere or move to a new position"
+   },
+   {
+      "word": "stick",
+      "hint": "A thin piece of wood that has fallen or been cut from a tree"
+   },
+   { "word": "still", "hint": "Not moving or making a sound" },
+   { "word": "stop", "hint": "Cause (an action, process, or event) to come to an end" },
+   {
+      "word": "story",
+      "hint": "An account of imaginary or real people and events told for entertainment"
+   },
+   {
+      "word": "straight",
+      "hint": "Extending or moving uniformly in one direction only; without a curve or bend"
+   },
+   {
+      "word": "strategy",
+      "hint": "A plan of action or policy designed to achieve a major or overall aim"
+   },
+   {
+      "word": "street",
+      "hint": "A public road in a city, town, or village, typically with houses and buildings on one or both sides"
+   },
+   {
+      "word": "strike",
+      "hint": "Hit forcibly and deliberately with one's hand or a weapon or other implement"
+   },
+   {
+      "word": "strong",
+      "hint": "Having the power to move heavy weights or perform other physically demanding tasks"
+   },
+   {
+      "word": "structure",
+      "hint": "The arrangement of and relations between the parts or elements of something complex"
+   },
+   { "word": "student", "hint": "A person who is studying at a school or college" },
+   {
+      "word": "study",
+      "hint": "The devotion of time and attention to acquiring knowledge on an academic subject, especially by means of books"
+   },
+   {
+      "word": "stuff",
+      "hint": "Matter, material, articles, or activities of a specified or indeterminate kind that are being referred to, indicated, or implied"
+   },
+   {
+      "word": "stupid",
+      "hint": "Having or showing a great lack of intelligence or common sense"
+   },
+   {
+      "word": "subject",
+      "hint": "A person or thing that is being discussed, described, or dealt with"
+   },
+   { "word": "succeed", "hint": "Achieve the desired aim or result" },
+   { "word": "such", "hint": "Of the type previously mentioned" },
+   {
+      "word": "sudden",
+      "hint": "Occurring or done quickly and unexpectedly or without warning"
+   },
+   { "word": "suggest", "hint": "Put forward for consideration" },
+   {
+      "word": "suit",
+      "hint": "A set of outer clothes made of the same fabric and designed to be worn together, typically consisting of a jacket and trousers or a jacket and skirt"
+   },
+   {
+      "word": "summer",
+      "hint": "The warmest season of the year, in the northern hemisphere from June to August and in the southern hemisphere from December to February"
+   },
+   {
+      "word": "sunday",
+      "hint": "The day of the week before Monday and following Saturday, observed by most Christians as a day of rest and religious worship"
+   },
+   {
+      "word": "supply",
+      "hint": "Make (something needed or wanted) available to someone; provide"
+   },
+   { "word": "support", "hint": "Bear all or part of the weight of; hold up" },
+   {
+      "word": "suppose",
+      "hint": "Assume that something is the case on the basis of evidence or probability but without proof or certain knowledge"
+   },
+   {
+      "word": "sure",
+      "hint": "Confident in what one thinks or knows; having no doubt that one is right"
+   },
+   { "word": "surprise", "hint": "An unexpected or astonishing event, fact, or thing" },
+   {
+      "word": "switch",
+      "hint": "A device for making and breaking the connection in an electric circuit"
+   },
+   {
+      "word": "system",
+      "hint": "A set of connected things or parts forming a complex whole, in particular"
+   },
+   {
+      "word": "table",
+      "hint": "A piece of furniture with a flat top and one or more legs, providing a level surface on which objects may be placed and doing work"
+   },
+   {
+      "word": "take",
+      "hint": "Lay hold of (something) with one's hands; reach for and hold"
+   },
+   {
+      "word": "talk",
+      "hint": "Speak in order to give information or express ideas or feelings; converse or communicate by spoken words"
+   },
+   {
+      "word": "tape",
+      "hint": "A narrow strip of material, typically used to hold or fasten something"
+   },
+   { "word": "teach", "hint": "Show or explain to (someone) how to do something" },
+   {
+      "word": "team",
+      "hint": "A group of players forming one side in a competitive game or sport"
+   },
+   {
+      "word": "telephone",
+      "hint": "A system for transmitting voices over a distance using wire or radio, by converting acoustic vibrations to electrical signals"
+   },
+   {
+      "word": "television",
+      "hint": "A system for transmitting visual images and sound that are reproduced on screens, chiefly used to broadcast programs for entertainment, information, and education"
+   },
+   {
+      "word": "tell",
+      "hint": "Communicate information, facts, or news to someone in spoken or written words"
+   },
+   {
+      "word": "tend",
+      "hint": "Regularly or frequently behave in a particular way or have a certain characteristic"
+   },
+   {
+      "word": "term",
+      "hint": "A word or phrase used to describe a thing or to express a concept, especially in a particular kind of language or branch of study"
+   },
+   { "word": "terrible", "hint": "Extremely or distressingly bad or serious" },
+   {
+      "word": "test",
+      "hint": "A procedure intended to establish the quality, performance, or reliability of something, especially before it is taken into widespread use"
+   },
+   { "word": "than", "hint": "Used to introduce the second element in a comparison" },
+   {
+      "word": "thank",
+      "hint": "Express gratitude to (someone), especially by saying 'Thank you'"
+   },
+   { "word": "then", "hint": "At that time; at the time in question" },
+   { "word": "there", "hint": "In, at, or to that place or position" },
+   { "word": "therefore", "hint": "For that reason; consequently" },
+   {
+      "word": "they",
+      "hint": "Used to refer to two or more people or things previously mentioned or easily identified"
+   },
+   {
+      "word": "thing",
+      "hint": "An object that one need not, cannot, or does not wish to give a specific name to"
+   },
+   {
+      "word": "think",
+      "hint": "Have a particular opinion, belief, or idea about someone or something"
+   },
+   {
+      "word": "thirteen",
+      "hint": "Equivalent to the sum of ten and three; one more than twelve, or seven less than twenty; 13"
+   },
+   {
+      "word": "thirty",
+      "hint": "Equivalent to the product of three and ten; ten less than forty; 30"
+   },
+   {
+      "word": "this",
+      "hint": "Used to identify a specific person or thing close at hand or being indicated or experienced"
+   },
+   {
+      "word": "thou",
+      "hint": "Archaic or dialect form of 'you,' as the singular subject of a verb"
+   },
+   { "word": "though", "hint": "Despite the fact that; although" },
+   {
+      "word": "thousand",
+      "hint": "The number equivalent to the product of a hundred and ten; 1,000"
+   },
+   {
+      "word": "three",
+      "hint": "Equivalent to the sum of one and two; one more than two, or seven less than ten; 3"
+   },
+   {
+      "word": "through",
+      "hint": "Moving in one side and out of the other side of (an opening, channel, or location)"
+   },
+   {
+      "word": "throw",
+      "hint": "Propel (something) with force through the air by a movement of the arm and hand"
+   },
+   {
+      "word": "thursday",
+      "hint": "The day of the week before Friday and following Wednesday"
+   },
+   {
+      "word": "time",
+      "hint": "The indefinite continued progress of existence and events in the past, present, and future regarded as a whole"
+   },
+   { "word": "today", "hint": "On or in the course of this present day" },
+   { "word": "together", "hint": "With or in proximity to another person or people" },
+   { "word": "tomorrow", "hint": "The day after today" },
+   { "word": "tonight", "hint": "On the present or approaching evening or night" },
+   { "word": "total", "hint": "Comprising the whole number or amount" },
+   { "word": "touch", "hint": "Come into or be in contact with" },
+   { "word": "toward", "hint": "In the direction of" },
+   {
+      "word": "town",
+      "hint": "An urban area that has a name, defined boundaries, and local government, and that is generally larger than a village and smaller than a city"
+   },
+   { "word": "trade", "hint": "The action of buying and selling goods and services" },
+   { "word": "traffic", "hint": "Vehicles moving on a public highway" },
+   { "word": "train", "hint": "A series of connected vehicles that travel on railways" },
+   {
+      "word": "transport",
+      "hint": "Take or carry (people or goods) from one place to another by means of a vehicle, aircraft, or ship"
+   },
+   { "word": "travel", "hint": "Make a journey, typically of some length or abroad" },
+   { "word": "treat", "hint": "Behave towards or deal with in a certain way" },
+   {
+      "word": "tree",
+      "hint": "A woody perennial plant, typically having a single stem or trunk growing to a considerable height and bearing lateral branches at some"
+   }
 ]
