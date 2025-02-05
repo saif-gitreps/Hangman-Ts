@@ -28,7 +28,7 @@ function App() {
          const { data, error } = await supabase
             .from("leaderboard")
             .select("*")
-            .order("score", { ascending: false }) // Sort by highest score
+            .order("score", { ascending: false })
             .limit(3);
 
          if (error) throw new Error(error.message);
@@ -38,28 +38,49 @@ function App() {
 
    const addScoreMutation = useMutation({
       mutationFn: async () => {
+         const { data: existing } = await supabase
+            .from("leaderboard")
+            .select("name")
+            .eq("name", name)
+            .single();
+
+         if (existing) {
+            alert("This username is already taken. Please choose another name.");
+            throw new Error("Username already exists");
+         }
+
          const { error } = await supabase
             .from("leaderboard")
             .insert([{ name, score: yourScore }]);
+
          if (error) throw new Error(error.message);
       },
       onSuccess: () => {
-         queryClient.invalidateQueries({ queryKey: ["leaderboard"] }); // Refetch leaderboard after adding
+         queryClient.invalidateQueries({ queryKey: ["leaderboard"] });
+         alert("Score saved successfully!");
+      },
+      onError: (error) => {
+         console.error("Failed to save score:", error);
       },
    });
 
-   // **3. Add score on page refresh or exit**
-   useEffect(() => {
-      const handleExit = () => {
-         if (!name || !yourScore) return;
+   const saveScore = () => {
+      if (name && yourScore > 0) {
          addScoreMutation.mutate();
+      }
+   };
+
+   useEffect(() => {
+      const handleBeforeUnload = (e: BeforeUnloadEvent) => {
+         if (name && yourScore > 0) {
+            e.preventDefault();
+            alert("Please save your score before leaving the page.");
+         }
       };
 
-      window.addEventListener("beforeunload", handleExit);
-      return () => {
-         window.removeEventListener("beforeunload", handleExit);
-      };
-   }, []);
+      window.addEventListener("beforeunload", handleBeforeUnload);
+      return () => window.removeEventListener("beforeunload", handleBeforeUnload);
+   }, [name, yourScore]);
 
    const isLoser: boolean = incorrectLetters.length >= 8;
    const checkWinner = (): boolean => {
@@ -112,8 +133,8 @@ function App() {
             Hangman
          </h1>
 
-         <div className="text-xl 2xl:text-2xl flex flex-col justify-start font-bold text-center text-white xl:absolute xl:top-3 xl:left-3 p-2 space-y-2">
-            <h1>Enter name to save progress:</h1>
+         <div className="text-xl 2xl:text-2xl xl:flex xl:flex-col xl:justify-start font-bold text-center text-white xl:absolute xl:top-3 xl:left-3 p-2 space-y-2">
+            <h1>Enter name to beat leaderboards:</h1>
             <input
                className="p-2 max-w-52 rounded text-black"
                type="text"
@@ -151,41 +172,46 @@ function App() {
             {isLoading && topScores === undefined ? (
                <div>Loading leaderboard...</div>
             ) : (
-               <table className="text-white max-w-md border-separate border-spacing-1 table-auto w-full">
-                  <thead>
-                     <tr className="border border-b-2 border-gray-200">
-                        <th className="text-left px-2 py-1">Name</th>
-                        <th className="text-left px-2 py-1">Score</th>
-                     </tr>
-                  </thead>
-                  <tbody>
-                     {topScores?.map((score, index) => (
-                        <tr key={index} className="border border-white text-gray-300">
-                           <td className="px-2 py-1 break-words text-left">
-                              {score.name}
-                           </td>
-                           <td className="px-2 py-1 text-yellow-400">{score.score}</td>
+               <>
+                  <table className="text-white max-w-md border-separate border-spacing-1 table-auto w-full">
+                     <thead>
+                        <tr className="border border-b-2 border-gray-200">
+                           <th className="text-left px-2 py-1">Name</th>
+                           <th className="text-left px-2 py-1">Score</th>
                         </tr>
-                     ))}
-                     <tr className="border border-white text-gray-300">
-                        <td className="px-2 py-1 break-words text-left">-</td>
-                        <td className="px-2 py-1">-</td>
-                     </tr>
-                     <tr className="border border-white text-gray-300">
-                        <td className="px-2 py-1 break-words text-left">-</td>
-                        <td className="px-2 py-1">-</td>
-                     </tr>
+                     </thead>
+                     <tbody>
+                        {topScores?.map((score, index) => (
+                           <tr
+                              key={index + score}
+                              className="border border-white text-gray-300"
+                           >
+                              <td className="px-2 py-1 break-words text-left">
+                                 {score.name}
+                              </td>
+                              <td className="px-2 py-1 text-yellow-400">{score.score}</td>
+                           </tr>
+                        ))}
 
-                     {name && (
-                        <tr className="border border-white text-gray-300 max-w-md bg-slate-700">
-                           <td className="px-2 py-1 break-words text-left max-w-72">
-                              You
-                           </td>
-                           <td className="px-2 py-1 text-yellow-400">{yourScore}</td>
-                        </tr>
-                     )}
-                  </tbody>
-               </table>
+                        {name && (
+                           <tr className="border border-white text-gray-300 max-w-md bg-slate-700">
+                              <td className="px-2 py-1 break-words text-left max-w-72">
+                                 You
+                              </td>
+                              <td className="px-2 py-1 text-yellow-400">{yourScore}</td>
+                           </tr>
+                        )}
+                     </tbody>
+                  </table>
+                  {name && yourScore > 0 && (
+                     <button
+                        className="bg-yellow-500 p-2 rounded text-black"
+                        onClick={saveScore}
+                     >
+                        Save score
+                     </button>
+                  )}
+               </>
             )}
          </div>
       </div>
